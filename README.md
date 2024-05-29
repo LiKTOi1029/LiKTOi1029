@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiKTOi1029
-- 👀 I’m interested in Lua, Zenscript, Python, BrainF
+- 👀 I’m interested in Lua, Zenscript, Python, BrainF, Batch, Powershell
 - 🌱 I’m currently learning Python
 
 <!---
